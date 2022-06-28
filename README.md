@@ -1,4 +1,4 @@
-# pythoncrawlercases
+# python_spider
 Python爬虫案例笔记
 
 案例一：当当网排名前100的图书信息（排名、书名、图片地址、作者、推荐指数、五星评分次数、价格）
