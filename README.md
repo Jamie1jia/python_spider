@@ -7,4 +7,4 @@ Python爬虫案例笔记
 
 案例二：豆瓣网排名前250的电影信息（名称,图片,排名,评分,作者,简介）
 
-参考[python爬虫08 | 你的第二个爬虫，要过年了，爬取豆瓣最受欢迎的250部电影慢慢看](https://vip.fxxkpython.com/?p=1871),网页数据解析使用BeautifulSoup，数据处理使用numpy，pandas
+参考[python爬虫08 | 你的第二个爬虫，要过年了，爬取豆瓣最受欢迎的250部电影慢慢看](https://vip.fxxkpython.com/?p=1871),网页数据解析使用BeautifulSoup，数据处理使用numpy，pandas。
